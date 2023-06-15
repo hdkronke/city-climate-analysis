@@ -9,5 +9,6 @@ Creating visualizations helped me understand the massive amount of data as it wa
 
 ![image](https://github.com/hdkronke/python-api-challenge/assets/117773492/90782019-b0d7-4d2a-8b59-fcd5bc7c58e6)
 
-![image](https://github.com/hdkronke/python-api-challenge/assets/117773492/f94335bf-a8c0-48cb-a124-ef7bb3a74314)
+![a](https://github.com/hdkronke/python-api-challenge/assets/117773492/b2eb9039-dc18-496f-ac9f-5d3d3015e800)
+
 
