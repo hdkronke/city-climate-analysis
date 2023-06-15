@@ -15,3 +15,6 @@ I also used linear regression to better understand the relationships and trends 
 
 ![image](https://github.com/hdkronke/python-api-challenge/assets/117773492/efbad38e-3605-43ec-8a83-78ceafd6f300)
 
+For the grand finale, API data was used to identify my ideal weather conditions and find specific locations around the globe. I was even able to find any nearby hotels to make vacation planning that much easier!
+
+![image](https://github.com/hdkronke/python-api-challenge/assets/117773492/ee8a9577-0a46-4344-9136-72cd0ed1fb5e)
