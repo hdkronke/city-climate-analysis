@@ -11,4 +11,7 @@ Creating visualizations helped me understand the massive amount of data as it wa
 
 ![a](https://github.com/hdkronke/python-api-challenge/assets/117773492/b2eb9039-dc18-496f-ac9f-5d3d3015e800)
 
+I also used linear regression to better understand the relationships and trends in the data.
+
+![image](https://github.com/hdkronke/python-api-challenge/assets/117773492/efbad38e-3605-43ec-8a83-78ceafd6f300)
 
