@@ -1,5 +1,5 @@
 # Climate Data Analysis
-## Module 6
+## Python API
 
 For this project, I used real time climate API data to find a correlation between a city's global coordinates and the weather.
 
